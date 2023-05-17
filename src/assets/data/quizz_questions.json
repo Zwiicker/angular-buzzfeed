@@ -1,42 +1,44 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
+  "title":"Você seria um Jedi ou Sith ?",
   "questions":[
     {
       "id":1,
-      "question": "Qual super poder você escolheria ?",
+      "question": "Como você vê o mundo ?",
       "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+        {"id": 1, "name":"O mundo é cheio de luz e bondade.", "alias":"A"},
+        {"id": 2, "name":"O mundo é um lugar cheio de conflito e caos.", "alias":"B"},
+        {"id": 3, "name":"O mundo é um lugar para ser conquistado.", "alias":"B"},
+        {"id": 4, "name":"O mundo é um lugar diverso e complexo, com espaço para diferentes perspectivas e harmonia.", "alias":"A"}
       ]
     },
     {
       "id":2,
-      "question": "Quem você salvaria primeiro ?",
+      "question": "Qual é a sua visão sobre o uso da força?",
       "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+        {"id": 1, "name":"A força deve ser usada para controlar e subjugar os outros.", "alias":"B"},
+        {"id": 2, "name":"A força deve ser usada com sabedoria e moderação, buscando o equilíbrio entre o lado luminoso e o lado sombrio.", "alias":"A"},
+        {"id": 3, "name":"A força deve ser usada para ganho pessoal.", "alias":"B"},
+        {"id": 4, "name":"A força deve ser usada para proteger e defender.", "alias":"A"}
       ]
     },
     {
       "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "question": "Como você lida com suas emoções e impulsos?",
       "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+        {"id": 1, "name":"Expresso minhas emoções e impulsos de forma intensa e imediata.", "alias":"B"},
+        {"id": 2, "name":"Busco controlar minhas emoções e impulsos, evitando que eles me dominem.", "alias":"A"},
+        {"id": 3, "name":"Buscar uma solução equilibrada que leve em consideração os valores de todos os envolvidos.", "alias":"A"},
+        {"id": 4, "name":"Utilizo minha inteligência emocional para entender as emoções dos outros e construir relacionamentos empáticos e saudáveis.", "alias":"B"}
       ]
     },
     {
       "id":4,
-      "question": "Qual o seu maior foco ?",
+      "question": "Qual é a sua visão sobre o destino e o livre arbítrio?",
       "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+        {"id": 1, "name":"Acredito que nosso destino é predeterminado e devemos aceitá-lo sem questionar.", "alias":"B"},
+        {"id": 2, "name":"Acredito que o destino é uma combinação de circunstâncias externas e nossas escolhas individuais, moldando nossa jornada.", "alias":"A"},
+        {"id": 3, "name":"Acredito que temos o livre arbítrio para moldar nosso próprio destino.", "alias":"A"},
+        {"id": 4, "name":"Acredito que o destino é influenciado por forças maiores, mas ainda temos certo controle sobre nossas escolhas.", "alias":"B"}
       ]
     },
     {
@@ -49,7 +51,7 @@
     }
   ],
   "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+    "A": "Você seria um Jedi. Busca equilíbrio entre luz e sombra, prioriza proteção e ajuda aos outros, guiados pelo lado luminoso da Força. ",
+    "B": "Você seria um Sith. Busca dominação através da paixão e convicção inabalável no lado sombrio da Força."
   }
 }
