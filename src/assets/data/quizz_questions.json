@@ -3,22 +3,22 @@
   "questions":[
     {
       "id":1,
-      "question": "Como você vê o mundo ?",
+      "question": "Qual é a sua perspectiva do mundo ao seu redor? ",
       "options":[
         {"id": 1, "name":"O mundo é cheio de luz e bondade.", "alias":"A"},
-        {"id": 2, "name":"O mundo é um lugar cheio de conflito e caos.", "alias":"B"},
+        {"id": 2, "name":"O mundo é um lugar cheio de conflitos.", "alias":"B"},
         {"id": 3, "name":"O mundo é um lugar para ser conquistado.", "alias":"B"},
-        {"id": 4, "name":"O mundo é um lugar diverso e complexo, com espaço para diferentes perspectivas e harmonia.", "alias":"A"}
+        {"id": 4, "name":"O mundo é um lugar diverso e complexo.", "alias":"A"}
       ]
     },
     {
       "id":2,
-      "question": "Qual é a sua visão sobre o uso da força?",
+      "question": "Como você utiliza sua influência sobre os outros?",
       "options":[
-        {"id": 1, "name":"A força deve ser usada para controlar e subjugar os outros.", "alias":"B"},
-        {"id": 2, "name":"A força deve ser usada com sabedoria e moderação, buscando o equilíbrio entre o lado luminoso e o lado sombrio.", "alias":"A"},
-        {"id": 3, "name":"A força deve ser usada para ganho pessoal.", "alias":"B"},
-        {"id": 4, "name":"A força deve ser usada para proteger e defender.", "alias":"A"}
+        {"id": 1, "name":"Utilizo para dominar e controlar os outros, em busca de benefícios pessoais.", "alias":"B"},
+        {"id": 2, "name":"Utilizo para proteger e ajudar os outros, buscando o bem-estar coletivo.", "alias":"A"},
+        {"id": 3, "name":"Utilizo para manipular e obter vantagem sobre os outros", "alias":"B"},
+        {"id": 4, "name":"Utilizo para buscar o equilíbrio e o benefício mútuo.", "alias":"A"}
       ]
     },
     {
@@ -28,7 +28,7 @@
         {"id": 1, "name":"Expresso minhas emoções e impulsos de forma intensa e imediata.", "alias":"B"},
         {"id": 2, "name":"Busco controlar minhas emoções e impulsos, evitando que eles me dominem.", "alias":"A"},
         {"id": 3, "name":"Buscar uma solução equilibrada que leve em consideração os valores de todos os envolvidos.", "alias":"A"},
-        {"id": 4, "name":"Utilizo minha inteligência emocional para entender as emoções dos outros e construir relacionamentos empáticos e saudáveis.", "alias":"B"}
+        {"id": 4, "name":"Utilizo a inteligência emocional para entender e construir relacionamentos empáticos.", "alias":"B"}
       ]
     },
     {
@@ -36,17 +36,19 @@
       "question": "Qual é a sua visão sobre o destino e o livre arbítrio?",
       "options":[
         {"id": 1, "name":"Acredito que nosso destino é predeterminado e devemos aceitá-lo sem questionar.", "alias":"B"},
-        {"id": 2, "name":"Acredito que o destino é uma combinação de circunstâncias externas e nossas escolhas individuais, moldando nossa jornada.", "alias":"A"},
+        {"id": 2, "name":"Acredito que o destino é resultado de circunstâncias e escolhas que moldam nossa jornada.", "alias":"A"},
         {"id": 3, "name":"Acredito que temos o livre arbítrio para moldar nosso próprio destino.", "alias":"A"},
-        {"id": 4, "name":"Acredito que o destino é influenciado por forças maiores, mas ainda temos certo controle sobre nossas escolhas.", "alias":"B"}
+        {"id": 4, "name":"Acredito que o destino é influenciado por forças maiores, mas temos controle sobre nossas escolhas.", "alias":"B"}
       ]
     },
     {
       "id":5,
-      "question": "Qual o seu apelido de super ser ?",
+      "question": "Como você reagiria a uma ameaça ?",
       "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+        {"id": 1, "name":"Tentar encontrar uma solução pacífica.", "alias":"A"},
+        {"id": 2, "name":"Lutar fisicamente contra a ameaça.", "alias":"B"},
+        {"id": 3, "name":"Usar a persuação para controlar a ameaça.", "alias":"B"},
+        {"id": 4, "name":"Avaliar a situação com calma e buscar uma solução", "alias":"A"}
       ]
     }
   ],

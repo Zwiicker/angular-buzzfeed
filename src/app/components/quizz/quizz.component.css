@@ -25,7 +25,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  border: 1px solid #4224d9;
   border-radius: 8px;
   background-color: #644ed2;
   width: 100%;
@@ -74,9 +73,15 @@
 
 .btn-option1{
   background-color: transparent;
+  width: 50%;
+  display: inline-block;
+  cursor: pointer;
   color: #fff;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 17px;
+  padding: 16px 31px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #b4a40f;
   transition: .5s;
 }
 
